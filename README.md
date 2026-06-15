@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shravan 👋
 
-<!--
-**Shravan-871/Shravan-871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building practical web and software projects, with work across Java, JavaScript, HTML, and Python.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- [ShopSmart-E-Commerce-Spring-Boot](https://github.com/Shravan-871/ShopSmart-E-Commerce-Spring-Boot)  
+  E-commerce backend built with Spring Boot and Spring Security with core CRUD workflows.
+- [Taste-Trek-MERN-WSA](https://github.com/Shravan-871/Taste-Trek-MERN-WSA)  
+  Food ordering web app focused on smooth menu browsing and checkout experience.
+- [Decentralized-File-Sharing](https://github.com/Shravan-871/Decentralized-File-Sharing)  
+  Decentralized image upload and sharing using IPFS.
+- [smart-invoice-rag-langchain](https://github.com/Shravan-871/smart-invoice-rag-langchain)  
+  Invoice parsing with LangChain, ChromaDB, and LLM-based extraction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Interests
+- Backend development
+- Full-stack web development
+- AI-powered applications
+
+## 📫 Connect
+- GitHub: [@Shravan-871](https://github.com/Shravan-871)
